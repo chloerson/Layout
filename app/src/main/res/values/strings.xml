@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirstTry</string>
+    <string name="hello_world_text">Wow cool beans</string>
+    <string name="back">Back</string>
+    <string name="available_activties">Available Activties:</string>
+    <string name="activities">Activities</string>
+    <string name="menu">Menu</string>
+</resources>
