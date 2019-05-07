@@ -14,6 +14,8 @@ public class ListOfActivities extends AppCompatActivity {
     }
 
 
+    //code that gives the button a place to go to
+    //when the button is clicked it will go back to the main page
     public void goBackButton2(View view){
         Intent backButton2 = new Intent(this, MainActivity.class);
         startActivity(backButton2);

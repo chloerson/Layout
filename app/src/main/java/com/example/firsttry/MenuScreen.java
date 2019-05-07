@@ -15,6 +15,8 @@ public class MenuScreen extends AppCompatActivity {
         setContentView(R.layout.activity_menu_screen);
     }
 
+    //code that gives the button a place to go to
+    //when the button is clicked it will go back to the main page
     public void goBackButton(View view){
         Intent backButton = new Intent(this, MainActivity.class);
         startActivity(backButton);
